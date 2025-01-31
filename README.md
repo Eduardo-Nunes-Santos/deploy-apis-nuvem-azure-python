@@ -4,7 +4,7 @@
 
  A API é hospedada na nuvem usando o **Azure App Service**, uma solução escalável e confiável para execução de aplicações web. Este repositório inclui as instruções necessárias para rodar a API localmente, configurar dependências e fazer o deploy.
 
-## 📝Descrição 
+## 📝Resumo
  A API é projetada para ser hospedada na nuvem através do Azure App Service, que oferece uma solução gerenciada, escalável e de alta disponibilidade para hospedar aplicativos web. O Azure App Service lida com a infraestrutura, permitindo que você se concentre no desenvolvimento e na lógica de negócios da sua aplicação. Este repositório contém todas as instruções para a configuração do ambiente local, gestão de dependências e o processo de deploy para o Azure.
 
 
