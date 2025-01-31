@@ -1,4 +1,4 @@
-# Deploy de API Python na Azure
+# 📌Deploy de API Python na Azure 🌐
 
  Este repositório contém o código de uma API desenvolvida em Python (utilizando Flask, FastAPI ou Django), configurada para ser implantada no Azure App Service. Aqui você encontrará as orientações para configurar, executar localmente e fazer o deploy de sua aplicação na plataforma Azure, com foco na escalabilidade, segurança e alto desempenho.
 
